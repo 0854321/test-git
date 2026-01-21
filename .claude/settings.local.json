@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(baoyu-xhs-images)",
+      "Skill(baoyu-xhs-images:*)",
+      "Skill(baoyu-danger-gemini-web)",
+      "Skill(baoyu-danger-gemini-web:*)",
+      "Bash(npx -y bun:*)",
+      "Bash(\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --version)",
+      "Bash(defaults read:*)"
+    ]
+  }
+}
